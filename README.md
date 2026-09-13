@@ -1,16 +1,5 @@
 # **Employee Attrition Analysis & Prediction**
 
-![Pandas](https://img.shields.io/badge/Library-Pandas-150458)
-![SQL](https://img.shields.io/badge/SQL-MySQL-orange)
-![EDA](https://img.shields.io/badge/EDA-Insights-informational)
-![Machine Learning](https://img.shields.io/badge/ML-Basic%20Models-success)
-![Power BI](https://img.shields.io/badge/BI-Power%20BI-yellow)
-
-<img src="https://raw.githubusercontent.com/priyankadatacodes/hr-employee-attrition-analysis/main/dashboard/employee_attrition.png" width="100%">
-
----
-
-## **Executive Summary**
 
 Employee attrition directly impacts **organizational cost, productivity, and workforce stability**.  
 This project delivers an **end-to-end Employee Attrition Analysis**, designed to support **data-driven HR and leadership decisions**.
@@ -21,7 +10,7 @@ The objective is not just to report attrition numbers, but to **identify high-ri
 
 ---
 
-## **Why I Built This Project**
+
 
 Employee turnover is a common challenge across organizations, especially in large enterprises where even small attrition rates can lead to **significant hiring and training costs**.
 
@@ -147,9 +136,6 @@ The analysis followed a structured, end-to-end workflow:
 
 ---
 
-## **Dashboard Overview**
-
-<img src="https://raw.githubusercontent.com/priyankadatacodes/hr-employee-attrition-analysis/main/dashboard/employee_attrition_dashboard_image.png" width="100%">
 
 The dashboard provides:
 - Attrition overview
@@ -205,23 +191,8 @@ By identifying high-risk segments early, organizations can take **proactive rete
 
 This project demonstrates how **data analytics can directly support HR strategy and leadership decisions**.
 
----
 
-## **Author**
 
-**Priyanka Lakra**  
-**Data Analyst | Python | SQL | Power BI**  
-
----
-
-## **About Me**
-
-I am an aspiring **Data Analyst** with hands-on experience in **Python, SQL, and Power BI**, focused on building **business-driven, end-to-end analytics projects**.
-
-My approach emphasizes:
-- **Data quality and validation**
-- **KPI governance**
-- **Clear business communication**
 
 Through this project, I have demonstrated the ability to:
 - Follow an **industry-standard analytics workflow**
